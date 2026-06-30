@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Saail Awan</h1>
+ ![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saail%20Awan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descSize=20&descAlignY=60" alt="banner" />
+</p>
 <h3 align="center">A passionate Web Developer building things for the web</h3>
 
 <p align="center">
@@ -12,7 +16,7 @@
 - 🌱 I'm currently focused on building responsive, fast, and accessible web applications
 - 💻 I work across the stack — from clean, interactive front-ends to solid back-end logic
 - 🤝 I'm open to collaborating on interesting web projects
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **maliksaail342@gmail.com**
 - ⚡ Fun fact: I love turning ideas into working products
 
 ---
@@ -37,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Saail's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saail1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Saail's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saail1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saail1&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,16 +54,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/saailabbas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:maliksaail342@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -67,7 +65,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saail1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/your-username">Saail Awan</a></i></p>
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+</p>
