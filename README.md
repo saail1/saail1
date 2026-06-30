@@ -1,7 +1,7 @@
 ![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saail%20Awan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descSize=20&descAlignY=60" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=210&section=header&text=Saail%20Awan&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Web%20Developer%20%E2%80%A2%20Crafting%20Beautiful%20Web%20Experiences&descSize=18&descAlignY=58" alt="banner" />
 </p>
 
 <h3 align="center">A passionate Web Developer building things for the web</h3>
@@ -9,8 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+%26+Backend+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saail1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/saail1?label=Followers&color=0e75b6&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/saail1?affiliations=OWNER&label=Total%20stars&color=0e75b6&style=flat" alt="total stars" />
+</p>
 
 ### 🧑‍💻 About Me
 
@@ -51,8 +54,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-
 <p align="center">
   <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saail1&theme=tokyonight" alt="Saail's GitHub stats" />
   <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saail1&theme=tokyonight" alt="Top Languages" />
@@ -77,11 +78,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saail1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=150&section=footer&text=Thanks%20for%20visiting%20%E2%80%A2%20Let%27s%20connect!&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" alt="footer" />
 </p>
