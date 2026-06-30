@@ -1,0 +1,113 @@
+<svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Saail Awan - Web Developer">
+  <defs>
+    <clipPath id="inner">
+      <rect x="8" y="8" width="984" height="284" rx="14"/>
+    </clipPath>
+    <radialGradient id="vig" cx="50%" cy="50%" r="55%">
+      <stop offset="0%"  stop-color="#16213e" stop-opacity="0.9"/>
+      <stop offset="65%" stop-color="#16213e" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#16213e" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      text { font-family: 'Courier New', monospace; }
+      .code { fill: #5e86c9; fill-opacity: .22; font-size: 15px; }
+      .scroll { animation: scroll var(--dur, 18s) linear infinite; }
+      @keyframes scroll {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-1100px); }
+      }
+      .gx { animation: glitch var(--gdur, 7s) steps(1) infinite; }
+      @keyframes glitch {
+        0%, 78%, 100% { transform: translateX(0);    opacity: 1; }
+        80% { transform: translateX(6px);  opacity: .4; }
+        82% { transform: translateX(-9px); opacity: 1; }
+        84% { transform: translateX(4px);  opacity: .65; }
+        86% { transform: translateX(-3px); opacity: 1; }
+      }
+      .title { font-family: Georgia, 'Times New Roman', serif; font-size: 48px; }
+      .t-main { fill: #ffffff; animation: tjit 5s steps(1) infinite; }
+      .t-cyan { fill: #27e6ff; opacity: 0; animation: gcyan 5s steps(1) infinite; }
+      .t-pink { fill: #ff3ba0; opacity: 0; animation: gpink 5s steps(1) infinite; }
+      @keyframes tjit {
+        0%,89%,100% { transform: translate(0,0); }
+        90% { transform: translate(-2px,0); }
+        92% { transform: translate(2px,0); }
+        94% { transform: translate(-1px,0); }
+        96% { transform: translate(1px,0); }
+      }
+      @keyframes gcyan {
+        0%,89%,100% { opacity: 0;  transform: translate(0,0); }
+        90% { opacity: .85; transform: translate(-4px,1px); }
+        92% { opacity: .5;  transform: translate(3px,-2px); }
+        94% { opacity: .75; transform: translate(-2px,1px); }
+        96% { opacity: 0;   transform: translate(0,0); }
+      }
+      @keyframes gpink {
+        0%,89%,100% { opacity: 0;  transform: translate(0,0); }
+        90% { opacity: .85; transform: translate(4px,-1px); }
+        92% { opacity: .5;  transform: translate(-3px,2px); }
+        94% { opacity: .75; transform: translate(2px,-1px); }
+        96% { opacity: 0;   transform: translate(0,0); }
+      }
+      .sub { fill: #34d6d6; font-size: 21px; letter-spacing: 3px; }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 0%,50% { opacity: 1; } 51%,100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- background + lime border -->
+  <rect x="3" y="3" width="994" height="294" rx="20" fill="#16213e" stroke="#e3f000" stroke-width="6"/>
+
+  <!-- animated scrolling / glitching code background -->
+  <g clip-path="url(#inner)">
+    <g class="scroll" style="--dur:19s"><g class="gx" style="--gdur:8s">
+      <text class="code" x="0"    y="35" textLength="1100" lengthAdjust="spacingAndGlyphs">const dev = "Saail Awan";  function App() { return &lt;Portfolio /&gt;; }  npm run dev  | git status  | ready 240ms</text>
+      <text class="code" x="1100" y="35" textLength="1100" lengthAdjust="spacingAndGlyphs">const dev = "Saail Awan";  function App() { return &lt;Portfolio /&gt;; }  npm run dev  | git status  | ready 240ms</text>
+    </g></g>
+    <g class="scroll" style="--dur:15s"><g>
+      <text class="code" x="0"    y="73" textLength="1100" lengthAdjust="spacingAndGlyphs">useState(0);  useEffect(() =&gt; {}, []);  await fetch('/api/projects');  git push origin main  | build passed</text>
+      <text class="code" x="1100" y="73" textLength="1100" lengthAdjust="spacingAndGlyphs">useState(0);  useEffect(() =&gt; {}, []);  await fetch('/api/projects');  git push origin main  | build passed</text>
+    </g></g>
+    <g class="scroll" style="--dur:23s"><g class="gx" style="--gdur:6.5s">
+      <text class="code" x="0"    y="111" textLength="1100" lengthAdjust="spacingAndGlyphs">:root { --accent: #e3f000; }  .btn:hover { transform: scale(1.05); }  export default Portfolio;  // styles.css</text>
+      <text class="code" x="1100" y="111" textLength="1100" lengthAdjust="spacingAndGlyphs">:root { --accent: #e3f000; }  .btn:hover { transform: scale(1.05); }  export default Portfolio;  // styles.css</text>
+    </g></g>
+    <g class="scroll" style="--dur:17s"><g>
+      <text class="code" x="0"    y="149" textLength="1100" lengthAdjust="spacingAndGlyphs">for (let i = 0; i &lt; repos.length; i++) { star(repos[i]); }  deploy ok  status 200  100%  | systems go</text>
+      <text class="code" x="1100" y="149" textLength="1100" lengthAdjust="spacingAndGlyphs">for (let i = 0; i &lt; repos.length; i++) { star(repos[i]); }  deploy ok  status 200  100%  | systems go</text>
+    </g></g>
+    <g class="scroll" style="--dur:21s"><g class="gx" style="--gdur:7.5s">
+      <text class="code" x="0"    y="187" textLength="1100" lengthAdjust="spacingAndGlyphs">import React from 'react';  const [data, setData] = useState([]);  res =&gt; res.json()  | hooks loaded  | ok</text>
+      <text class="code" x="1100" y="187" textLength="1100" lengthAdjust="spacingAndGlyphs">import React from 'react';  const [data, setData] = useState([]);  res =&gt; res.json()  | hooks loaded  | ok</text>
+    </g></g>
+    <g class="scroll" style="--dur:14s"><g>
+      <text class="code" x="0"    y="225" textLength="1100" lengthAdjust="spacingAndGlyphs">git commit -m "ship it";  docker compose up -d;  curl -X GET /health;  &gt; ok  | tests passed  | coverage 98%</text>
+      <text class="code" x="1100" y="225" textLength="1100" lengthAdjust="spacingAndGlyphs">git commit -m "ship it";  docker compose up -d;  curl -X GET /health;  &gt; ok  | tests passed  | coverage 98%</text>
+    </g></g>
+    <g class="scroll" style="--dur:25s"><g class="gx" style="--gdur:9s">
+      <text class="code" x="0"    y="263" textLength="1100" lengthAdjust="spacingAndGlyphs">&lt;html&gt;&lt;body&gt;&lt;main&gt; Saail Awan - Web Developer &lt;/main&gt;&lt;/body&gt;&lt;/html&gt;  // building the web one commit at a time</text>
+      <text class="code" x="1100" y="263" textLength="1100" lengthAdjust="spacingAndGlyphs">&lt;html&gt;&lt;body&gt;&lt;main&gt; Saail Awan - Web Developer &lt;/main&gt;&lt;/body&gt;&lt;/html&gt;  // building the web one commit at a time</text>
+    </g></g>
+  </g>
+
+  <!-- soft dark vignette for title legibility -->
+  <ellipse cx="500" cy="150" rx="370" ry="108" fill="url(#vig)"/>
+
+  <!-- GitHub logos left & right -->
+  <g transform="translate(60,118) scale(4)" fill="#ffffff" fill-opacity="0.95">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+  </g>
+  <g transform="translate(876,118) scale(4)" fill="#ffffff" fill-opacity="0.95">
+    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+  </g>
+
+  <!-- title with RGB-split glitch -->
+  <g class="title" text-anchor="middle">
+    <text class="t-cyan" x="500" y="146">Hey! I am Saail Awan</text>
+    <text class="t-pink" x="500" y="146">Hey! I am Saail Awan</text>
+    <text class="t-main" x="500" y="146">Hey! I am Saail Awan</text>
+  </g>
+
+  <!-- subtitle -->
+  <text class="sub" x="500" y="184" text-anchor="middle">Web Developer<tspan class="caret"> _</tspan></text>
+</svg>
