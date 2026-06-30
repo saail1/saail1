@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saail%20Awan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descSize=20&descAlignY=60" alt="banner" />
 </p>
+
 <h3 align="center">A passionate Web Developer building things for the web</h3>
 
 <p align="center">
@@ -13,11 +14,24 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="58%">
+
 - 🌱 I'm currently focused on building responsive, fast, and accessible web applications
 - 💻 I work across the stack — from clean, interactive front-ends to solid back-end logic
 - 🤝 I'm open to collaborating on interesting web projects
 - 📫 Reach me at: **maliksaail342@gmail.com**
 - ⚡ Fun fact: I love turning ideas into working products
+
+</td>
+<td valign="top" width="42%" align="center">
+
+<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExNHVvNzFwM2g5NDFtamMyaDZ6bWhzYXVyaDBlY3RrbnU3b3NrcnQ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2F78XCFBGOlS6keY1Bil%2Fgiphy.gif" width="300" alt="about me gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
