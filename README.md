@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img width="100%" src="./banner.svg" alt="Saail Awan - Web Developer" />
+  <img width="100%" src="./banner.svg" alt="Saail Abbas - Web Developer" />
 </p>
 
 <h3 align="center">A passionate Web Developer building things for the web</h3>
